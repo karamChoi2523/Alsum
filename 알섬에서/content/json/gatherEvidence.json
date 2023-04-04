@@ -1,0 +1,36 @@
+[
+    {
+		"type" : "Dialogue",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "지금까지 많은 단서가 나왔어. 우선 생각을 정리해보자."
+	},
+	{
+		"type" : "Narration",
+		"content" : "우선 다온이는 어떤 아저씨가 음료수에 흰색 가루를 넣어서 건네는 것을 봤다고 했어.\n그러면 애경씨는 범인이 아닐거야.\n"
+	},
+	{
+		"type" : "Narration",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "가영씨의 배쪽에는 칼에 찔린 상처가 있었지.\n내 옆에 있던 칼이 진짜로 가영씨를 찌른 칼이라면 흉기는 그 칼일거야.\n"
+	},
+	{
+		"type" : "Narration",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "하지만..부검 결과가 나오기 전까지는 장담할 수 없겠지만, 몸싸움을 한 흔적은 보이지 않았어.\n옷을 잡아채거나 했다면 늘어난 곳이 있을텐데 옷도 깨끗해.\n"
+	},
+	{
+		"type" : "Narration",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "게다가 수상한 점이 있었지. 입술이 파랗고 뭔가 말라붙은 흔적이 있었어.\n이건 다온이가 말했던 음료수 때문일거야. 독특한 냄새가 나는데 무슨 냄새인지는 모르겠어..\n"
+	},
+	{
+		"type" : "Narration",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "우선 지금은 그 사람이 가장 유력한 용의자야.\n어젯밤의 일이 조금이라도 기억나면 어제 가영씨가 누구랑 나갔는지 알 수 있을지도 모르는데..\n너무 정신이 없었어.."
+	},
+	{
+		"type" : "Dialogue",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "분명 단서가 어딘가에 남아있을거야. 우선 가영씨의 집에 가봐야겠어.\n"
+	}
+]

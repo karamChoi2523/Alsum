@@ -1,0 +1,12 @@
+[
+	{
+		"type" : "Narration",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "통장에 돈이 엄청 많잖아..! 가영씨의 다이어리에 적혀있던 내용이 바로 이건가봐!!"
+	},
+    {
+		"type" : "Narration",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "이것도 가져가서 교주가 기부금을 횡령했다는 증거로 사람들한테 보여줘야겠어.\n"
+	}
+]

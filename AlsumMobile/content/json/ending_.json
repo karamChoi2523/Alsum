@@ -1,0 +1,82 @@
+[
+	
+	{	"type" : "background" ,
+		"img" : "content/image/villageHall/villageHall.png"
+	},	
+
+	{	"type" : "Narration",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "우선 저는, 진실을 밝히기 위해 피해자의 집으로 갔어요. \n저는 집에서 주가영의 다이어리를 발견했어요."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "다이어리 안에는 사이비를 믿는 부모님 때문에 힘들다는 내용과 \n교주가 기부금 목적으로 돈을 걷고 있다는 내용이 적혀있었죠. \n물론 그 돈은 교주가 개인적으로 사용하고 있었어요."
+	},
+	
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "저는 마을 이장 생일파티에서 피해자와 은밀히 접근해 \n피해자에게 음료를 먹였다는 사람이 가해자일 거라고 생각했어요. \n그래서 피해자의 핸드폰으로 최근 연락한 사람의 명단을 흝어보았죠."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "공진석, 조애경, 한상혁. 이 세 명이 죽은 피해자와 마지막으로 연락한 사람이더라고요. \n공진석과의 주고 받은 문자 메세지에서 수상한 정황이 보여 저는 공진석의 집으로 갔어요."
+	},
+	{	"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "공진석 집에서 발견된 통장에는 거액의 돈들이 많이 입금되어 있더라고요. \n또, 책장에서 숨겨진 금고를 발견했어요. \n그 금고 안에는 엄청난 액수의 돈이 있더라고요. 물론 다 불쌍한 신자들에게서 뺏은 돈이겠죠."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "가해자가 피해자에게 하얀 가루를 탄 음료수를 먹였다고 제가 목격자에게 들었어요. \n신기하게도, 공진석의 책장 서랍에서는 흰 가루가 든 병이 나왔고요."
+	},
+
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "이 가루는 피해자의 입가에서 나는 냄새와 같아요. \n이러한 사실들이 뭐를 뜻하는지 다들 아시겠죠?"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "공진석",
+		"img" : "content/image/character_half/jinseok_half.png",
+		"content" : "..."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "범인은... 공진석 입니다."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "박상혁",
+		"img" : "content/image/character_half/sanghyuk_half.png",
+		"content" : "교, 교주님... 아니죠? 그러실 분 아니잖아요! \n제가 교주님을 믿고 얼마나..."
+	},
+	{
+		"type": "Narration",
+		"speaker" : "송은주",
+		"content" : "마을 주민들이 술렁거렸다. 몇몇은 눈물을 흘렸고, 몇몇은 분노했다. \n나는... 누명을 벗어서 기쁘기도 하지만 조금 씁쓸한 기분이 들었다."
+	},
+
+	{	"type" : "background" ,
+		"img" : "content/image/ending/ending.png"
+	},	
+	{
+		"type": "Narration",
+		"speaker" : "송은주",
+		"content" : "그렇게 교주인 공진석은 경찰에 잡혀갔고 사건이 마무리 되었다."
+	}
+
+]

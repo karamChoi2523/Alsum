@@ -1,0 +1,17 @@
+[
+    {
+		"type" : "Dialogue",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "드디어 도착이네! 배를 탔더니 멀미가 나는 것 같아. 멀미약 같은 것도 다 소용이 없다니까."
+	},
+	{
+		"type" : "Dialogue",
+        "img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "집 가서 급한 짐만 정리하고 얼른 쉬고 싶다. 그래도 오늘 왔으니 마을 분들께 인사 먼저 드려야지."
+	},
+	{
+		"type" : "Dialogue",
+        "img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "마을 회관 먼저 들려야겠지? 사람들 목소리가 여기까지 들리네. 너무 늦기 전에 얼른 가봐야겠다."
+	}
+]

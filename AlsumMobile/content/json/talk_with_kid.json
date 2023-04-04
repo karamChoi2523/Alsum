@@ -1,0 +1,80 @@
+[
+	{
+		"type" : "Narration",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "나는 가영 씨를 절대 죽이지 않았어. \n증거가 될 수 있는 무언가가 필요해."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "박다온",
+		"img" : "content/image/character_half/daon_half.png",
+		"content" : "저기 누나..."
+	},
+	{
+		"type" : "Narration",
+		"speaker" : "송은주",
+		"content" : "다온이잖아, 왜 불안해하고 있지?"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "안녕 다온아, 무슨 일이야?"
+	},
+	{	"type": "Dialogue",
+		"speaker" : "박다온",
+		"img" : "content/image/character_half/daon_half.png",
+		"content" : "누나, 가영이 누나 진짜 죽은 거예요..?"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "가영이 누나가 먼저 하늘나라로 가게 됐어. \n그래서 누나는 그 억울함을 풀어주려고 노력 중이야."
+	},
+	{	"type": "Dialogue",
+		"speaker" : "박다온",
+		"img" : "content/image/character_half/daon_half.png",
+		"content" : "혹시 그 음료수를 먹고 누나가... 죽은 걸까요?"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "음료수라니?"
+	},
+	{	"type": "Dialogue",
+		"speaker" : "박다온",
+		"img" : "content/image/character_half/daon_half.png",
+		"content" : "어제 엄마가 언제 오나 궁금해서 마을 회관에 갔었는데, \n어떤 아저씨가 가영이 누나랑 마을 회관 뒤에서 이야기를 나누다가 \n몰래 음료수에 흰색 가루를 넣고 그 음료수를 건네는 걸 봤어요!"
+	},
+	{
+		"type": "Narration",
+		"speaker" : "송은주",
+		"content" : "흰색 가루? 뭔가 수상하다."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "혹시 어떤 아저씨인지 기억나는 게 있어?"
+	},
+	{	"type": "Dialogue",
+		"speaker" : "박다온",
+		"img" : "content/image/character_half/daon_half.png",
+		"content" : "어두워서 잘 보지는 못 했어요... \n그런데 왜 늦게 왔냐고 다그치는 걸 보니 약속하고 만난 것 같았어요!"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "우연히 만난 것 같지는 않다는 거지? \n고마워, 다온아. 큰 도움이 됐어."
+	},
+	{
+		"type": "Narration",
+		"speaker" : "송은주",
+		"content" : "가영 씨의 시신을 한 번 더 살펴보고 \n흰색 가루가 무엇인지, \n누구와 만나기로 약속을 잡았는지 확인해봐야겠어."
+	},
+
+]

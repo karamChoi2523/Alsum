@@ -1,0 +1,17 @@
+[
+	{
+		"type" : "Narration",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "이 약은 뭐지? 서랍 안쪽에 숨겨져 있네."
+	},
+    {
+		"type" : "Narration",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "흔한 냄새는 아닌데..맡아본 적 있는 냄새야.\n"
+	},
+    {
+		"type" : "Narration",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "..가영씨의 입에서 독특한 냄새가 났었지. 그 냄새랑 같은 냄새가 나!\n"
+	}
+]

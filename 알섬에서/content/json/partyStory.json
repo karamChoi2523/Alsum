@@ -1,0 +1,107 @@
+[
+	{
+		"type" : "background"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "마을이장",
+		"img" : "content/image/character_half/jinseok_half.png",
+		"content" : "하하 여러분 다들 바쁘신데 제 생일잔치에 참석해주셔서 감사합니다.\n제 생일도 생일이지만 오늘 마을에 새로 온 사람을 소개하려 해요.\n다들 반겨주세요! 허허"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "안녕하세요. 송은주라고 합니다.\n앞으로 이곳에서 한 달 정도 머물게 될 것 같아요.\n앞으로 잘 부탁드립니다!"
+	},
+	{
+		"type" : "Inner",
+		"speaker" : "마을이장",
+		"content" : "한 달? 고작 한 달 머문다 간다고?\n저 여자 도대체 무슨 꿍꿍이 인거야?"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "마을이장",
+		"img" : "content/image/character_half/jinseok_half.png",
+		"content" : "예예 반갑습니다!\n아직 어색하겠지만 다들 반겨주세요!"
+	},
+	{
+		"type" : "Narration",
+		"speaker" : "송은주",
+		"content" : "하.. 어색해\n다들 날 별로 안 반기네... 괜히 왔나봐."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "박다온",
+		"img" : "content/image/character_half/daon_half.png",
+		"content" : "안녕하세요 누나! 전 박다온이라고 해요."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "아 안녕? 만나서 반가워ㅎㅎ 앞으로 잘 부탁해!"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "조애경",
+		"img" : "content/image/character_half/aekyung_half.png",
+		"content" : "어? 너 혹시 서울초등학교 송은주야?"
+	},
+	{
+		"type" : "Inner",
+		"speaker" : "송은주",
+		"content" : "설마 동창 조애경? 걔가 여길 왜?.."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "송은주",
+		"img" : "content/image/character_half/eunjoo_half.png",
+		"content" : "누구.. 아 애경아! 잘 지냈어? 이런데서 다 만나네."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "조애경",
+		"img" : "content/image/character_half/aekyung_half.png",
+		"content" : "온 지 며칠 안돼서 어색하지? 내가 여기 사람들 소개시켜 줄게\n일단 여긴 한상혁씨."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "한상혁",
+		"img" : "content/image/character_half/sanghyuk_half.png",
+		"content" : "만나서 반가워요. 저는 한상혁이라고 해요.\n좋은 말씀을 전해주는 선교사님과 함께 하는 모임이 있는데 관심 있으면 함께 하실래요?"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "조애경",
+		"img" : "content/image/character_half/aekyung_half.png",
+		"content" : "상혁씨. 초면인데 모임 권유는 좀 아니지 않나?"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "한상혁",
+		"img" : "content/image/character_half/sanghyuk_half.png",
+		"content" : "하하.. 아니 난 그냥 친해지려고 해본 말이지~ 못 들은 걸로 해요 은주씨^^"
+	},
+	{
+		"type" : "Inner",
+		"speaker" : "송은주",
+		"content" : "뭐야 저 사람.."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "조애경",
+		"img" : "content/image/character_half/aekyung_half.png",
+		"content" : "신경쓰지마.\n여기는 내 절친 주가영\n얜 경시생이라 열공중이야 요즘."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "주가영",
+		"img" : "content/image/character_half/gayeong_half.png",
+		"content" : "반가워요!\n은주랑 동창이면 나랑도 동갑이네~ 우리 말 놓을까요?"
+	},
+	{
+		"type" : "NarrationLast",
+		"content" : "송은주는 자신에게 유난히 살갑게 다가온 주가영과 부쩍 친해지고\n술을 나눠마시며 놀다가 잠이 든다."
+	}
+]
